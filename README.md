@@ -1,29 +1,57 @@
-Yo, welcome to the E4GL3’s nest! This is where I stash my Codeforces problem-solving loot. I’m soaring through challenges on and dropping my solutions here—mostly in C++.
+# 🪶 Welcome to E4GL3’s Nest
 
-## What’s This?
+Hey there, wanderer! You've landed in the roost of **E4GL3**—where I stash my Codeforces problem-solving spoils. This repo is my personal flight log, filled with solutions (mostly in C++) from countless coding battles.
 
-Just me, E4GL3, and These are my battle-tested solutions—some clean, some wild, all mine. Dig in, steal some ideas, or just vibe with the logic. No fancy feathers, just raw problem-crushing goodness.
+---
 
-## The Nest Layout
+## 🧩 What Is This?
 
-- **Prey/**: My kills—solutions named like `Prey_123A.cpp` or `Hunt_500/A.cpp`. You get the drift.
-- **Scraps/** (optional): Random notes or brain dumps on problems that made me squawk.
-- **Talons/** (optional): Scripts for scratching out test cases or whatever else I cooked up.
+It’s just me, E4GL3, cataloging the victories. These are my hand-crafted solutions—some elegant, some chaotic—but all authentic. Feel free to browse, borrow ideas, or just vibe with the thought process. No frills—just raw, focused problem-solving.
 
-Each file’s got the problem link or a quick “what’s this?” comment, my attack plan, and the code itself.
+---
 
-## Join the Hunt
+## 📁 Nest Structure
 
-This is my turf, but if you’ve got a sharper beak or a slicker move, hit me up:
-- Drop an issue if something’s off.
-- Toss a pull request if you’ve got a better strike.
+Here's how the chaos is organized:
 
-## Heads-Up
+- **`Prey/`**  
+  Where the real action happens. You'll find solutions like `Prey_123A.cpp` or `Hunt_500/A.cpp`. Each one is a takedown of a Codeforces problem.
 
-All this is straight from the E4GL3’s talons—my own grind unless I say otherwise. Use it to level up, but don’t just copy-paste if you’re still hunting on Codeforces. The thrill’s in the chase, fam.
+- **`Scraps/`** *(optional)*  
+  Brain dumps, random thoughts, and notes on those frustrating problems that kept me up at night.
 
-## Squawk at Me
+- **`Talons/`** *(optional)*  
+  Helpful scripts and utilities—think test case generators, custom checkers, or whatever else I’ve crafted along the way.
 
-Wanna chat code or flex your own solutions? Ping me at t.me/C1PH3RxE4GL3 or just screech in the issues tab.
+Each file typically includes:
+- A brief comment or problem link  
+- My strategy (a.k.a. how I pounced)  
+- The code itself
 
-Fly high, code hard!
+---
+
+## 🏹 Join the Hunt
+
+This is my territory, but the sky’s wide open:
+
+- **Spot a bug or typo?** Open an issue.  
+- **Got a cleaner or smarter solution?** Drop a pull request—I’m always up for sharpening my talons.
+
+---
+
+## ⚠️ Note
+
+All content here is the result of my own grind, unless explicitly stated. You’re welcome to learn and level up from it, but if you’re still hunting on Codeforces, avoid the temptation to copy. The real growth? It’s in the chase.
+
+---
+
+## 📣 Reach Out
+
+Wanna chat code, swap solutions, or just screech into the void?
+
+📬 [Ping me on Telegram](https://t.me/C1PH3RxE4GL3)  
+🛠 Or use the Issues tab—squawks are always welcome.
+
+---
+
+**Fly high. Code hard. Stay sharp. 🦅**
