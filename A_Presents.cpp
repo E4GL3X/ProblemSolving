@@ -1,25 +1,23 @@
 #include <bits/stdc++.h>
+#include <vector>
+
 using namespace std;
 
-int main() {
-    int n;
+int main()
+{
+    int n, p;
     cin >> n;
-    vector<int> p(n + 1), ans(n + 1);
-    
-
-    for (int i = 1; i <= n; i++) {
-        cin >> p[i];
+    vector<int> f(n+1);
+    for (int i = 1; i <= n; ++i)
+    {
+        cin >> p;
+        f[p] = i;
     }
-    
-
-    for (int i = 1; i <= n; i++) {
-        ans[p[i]] = i;
-    }
-    
-    for (int i = 1; i <= n; i++) {
-        cout << ans[i] << " ";
+    cout << f[1];
+    for (int i = 2; i <= n; ++i)
+    {
+        cout << " " << f[i];
     }
     cout << endl;
-    
     return 0;
 }
