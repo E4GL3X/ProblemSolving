@@ -1,0 +1,22 @@
+/**
+ * Author: E4GL3
+ * GitHub : https://github.com/e4GL3X/
+ * Created: 2025-09-30
+ * 
+ */
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int tc; cin >> tc;
+    while (tc--) {
+        int a, b; cin >> a >> b;
+        cout << abs(b-a) << endl;
+        
+    }
+    
+    return 0;
+}
